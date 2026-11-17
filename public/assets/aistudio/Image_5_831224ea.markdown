@@ -1,0 +1,189 @@
+---
+name: Productivity Workspace
+colors:
+  surface: '#f7f9fb'
+  surface-dim: '#d8dadc'
+  surface-bright: '#f7f9fb'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f2f4f6'
+  surface-container: '#eceef0'
+  surface-container-high: '#e6e8ea'
+  surface-container-highest: '#e0e3e5'
+  on-surface: '#191c1e'
+  on-surface-variant: '#404752'
+  inverse-surface: '#2d3133'
+  inverse-on-surface: '#eff1f3'
+  outline: '#717783'
+  outline-variant: '#c0c7d4'
+  surface-tint: '#0060ab'
+  primary: '#005faa'
+  on-primary: '#ffffff'
+  primary-container: '#0078d4'
+  on-primary-container: '#ffffff'
+  inverse-primary: '#a3c9ff'
+  secondary: '#565e74'
+  on-secondary: '#ffffff'
+  secondary-container: '#dae2fd'
+  on-secondary-container: '#5c647a'
+  tertiary: '#974700'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#bc5b00'
+  on-tertiary-container: '#ffffff'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#d3e3ff'
+  primary-fixed-dim: '#a3c9ff'
+  on-primary-fixed: '#001c39'
+  on-primary-fixed-variant: '#004883'
+  secondary-fixed: '#dae2fd'
+  secondary-fixed-dim: '#bec6e0'
+  on-secondary-fixed: '#131b2e'
+  on-secondary-fixed-variant: '#3f465c'
+  tertiary-fixed: '#ffdbc8'
+  tertiary-fixed-dim: '#ffb689'
+  on-tertiary-fixed: '#311300'
+  on-tertiary-fixed-variant: '#743500'
+  background: '#f7f9fb'
+  on-background: '#191c1e'
+  surface-variant: '#e0e3e5'
+typography:
+  headline-lg:
+    fontFamily: Inter
+    fontSize: 28px
+    fontWeight: '600'
+    lineHeight: 36px
+    letterSpacing: -0.02em
+  headline-md:
+    fontFamily: Inter
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+    letterSpacing: -0.01em
+  headline-sm:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '600'
+    lineHeight: 24px
+  body-lg:
+    fontFamily: Inter
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 24px
+  body-md:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 20px
+  body-sm:
+    fontFamily: Inter
+    fontSize: 13px
+    fontWeight: '400'
+    lineHeight: 18px
+  label-lg:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '500'
+    lineHeight: 20px
+  label-md:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '500'
+    lineHeight: 16px
+    letterSpacing: 0.01em
+  label-sm:
+    fontFamily: Inter
+    fontSize: 11px
+    fontWeight: '500'
+    lineHeight: 14px
+    letterSpacing: 0.02em
+rounded:
+  sm: 0.125rem
+  DEFAULT: 0.25rem
+  md: 0.375rem
+  lg: 0.5rem
+  xl: 0.75rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  margin: 2rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+
+This design system delivers a crisp, high-focus productivity aesthetic engineered for modern workflows. It targets knowledge workers, engineers, and project managers who demand uncompromising speed and clarity. The UI evokes a sense of calm efficiency, absolute precision, and unyielding focus through a restrained visual vocabulary.
+
+The design style merges a refined **Corporate / Modern** baseline with subtle **Low-contrast outlines** and structured spatial rhythm. Surfaces are clean and deliberate, avoiding extraneous decoration to keep the user's attention anchored entirely on task execution and data comprehension.
+
+## Colors
+
+The palette is built for extended focus sessions, utilizing a soft cool-gray canvas that reduces eye strain against crisp white structural elements. 
+
+- **Primary (`#0078D4`):** Microsoft Outlook blue, deployed purposefully for actionable items, interactive states, and email-sourced task indicators.
+- **Secondary (`#0F172A`):** Deep slate, utilized for primary typography and high-emphasis anchors to ensure maximum legibility.
+- **Neutral (`#F8FAFC`):** Soft cool-gray background canvas, establishing a calm, expansive workspace foundation.
+- **Surface (`#FFFFFF`):** Pure white for cards and floating containers, lifting content cleanly off the canvas.
+- **Border (`#E2E8F0`):** Subtle neutral divider tone for precise boundary definition without visual clutter.
+
+## Typography
+
+Typography acts as the primary vehicle for information hierarchy. Using **Inter** exclusively across all roles ensures a systematic, highly legible reading experience across dense task lists and high-level project views. 
+
+Font sizes above 28px are avoided to maintain strict spatial efficiency on desktop displays. For mobile viewpoints, scale down headline-lg to 24px with a 32px line height. Ensure all numerical data uses tabular figures to preserve vertical alignment in lists and tables.
+
+## Layout & Spacing
+
+This design system employs a **Fluid grid** model structured around an 8px baseline rhythm. The workspace adapts dynamically from a single-column layout on mobile devices to a sophisticated multi-pane master-detail view on desktop.
+
+- **Mobile (< 768px):** Single-column stack with 16px canvas margins and collapsed navigation drawers.
+- **Tablet (768px – 1024px):** Two-pane layout with a collapsible sidebar and flexible content canvas, utilizing 20px gutters.
+- **Desktop (L�
+N����YK\[�H��X�]�]H^[�]
+�]�Y�][ۋ\��\�[��X�܋�]Z[�H�]�^Y]�Y�YX�\��[�H�ZY�[��[�[��\ˈ��XZ[�Z[��ۜ�\�[�Y[��[��YH[�\�X�]�H�۝Z[�\��\�[���X�K\�X[��X�K[Y��[����\�\��HH[��KY�Y���\�][��\�K�����[]�][ۈ	�\���\�X[Y\�\��H\�X�Y]�Y�[X\�[H��Y���X�\�[�۝�\�[�
+����X�۝�\��][�\ʊ��]\�[�X]�H���Y��ˈ��H
+���[��\���[�][ێ���H�X��ܛ�[��[XZ[����\][H�]
+ю�Q��
+K��H
+���\��X�H[]�][ێ����\��[�[�\�X�]�H[�[�\�H\�H�]H
+ё�����
+H�X��Y�Hܚ\�\�ܙ\��
+�L�N�
+K��H
+��X�]�H	�ݙ\��]\Ί��[]�]Y��][��[[Y[��
+�X�\���[X[�[]\��۝^Y[�\�[���\�H[\�HZXܛ�\�Y���
+L��ؘJMK����
+X
+H��X�[�Y�]�X�\�H\�ܙ\���\�X�\��X\��ZY�\��^Y\�[�˂�����\\�H�\H[��XY�H\���X�H
+���ٝ
+���\�X�\�^�Y�H�۝��Y�ܛ�\��YZH]�[[��H\��X�X�[]H�]�ٙ\��[ۘ[�X�\�[ۋ���H
+���\�H[[Y[�Ί��[�\�X�]�H��\ۙ[���]ۜ�[�[�]�Y[�][^�HH��\�[X
+
+H�ܙ\��Y]\˂�H
+���۝Z[�\�Ί���\��[�[�[����ۈ[�[�\�H��[�Y[�
+�\�[X�
+H��ٝ[�\��\��\��X�H��[�\�Y\��]�]�XܚY�X�[����X�\�[�Y�Y]K��H
+��[�	��Y�\Ί���]\�Y��[�[��XY��[�\��\�H�[�\��[\���[�[����\�X[H\�[��Z\�Y]Y]H���H�[X\�H[�\�X�]�H�۝��˂������\ۙ[����\ۙ[��\�H[��[�Y\�Y�܈�YY��[��X�[]K[��^X��\��]�Y�][ۋ���H
+���]ۜΊ���[X\�HX�[ۜ�][^�HHZXܛ��ٝ�]����YH
+��
+H�X��ܛ�[��]\�H�]H^�ܙ\�\�Y]\�[�YY][H�۝�ZY���X�ۙ\�HX�[ۜ�\�H�[�\�Y\�����]ۜ��]�[��\�[��X��ܛ�[��Y\�]H^[��X�Hݙ\��[�
+ьQ�Q�X
+K��H
+���\�	��Y�\Ί����\X�[[Y[��\�^Z[��Y]Y]H܈�[\�[���[ۜˈ[XZ[\��\��Y\���\��X]\�HH�ٝ�YH[��X��ܛ�[�
+�P��ѐ�
+H�]�[X\�H�YH^�[��HZ\�ܚY�[�[��[�K��H
+��\�Ί��[��K��[��X�H�����X]\�[���[�\��\�]\��]ˈ����[��YH�X�H���H�ܙ\��
+�L�N�
+H[�\�^HH�X[�Y�Y��]Hۈݙ\���H
+���X�؛�\�	��Y[��]ۜΊ���X�\�[ۋXܘY�Y�]X\�H�X�؛�\�
+�Y]\�H][�[X]H�[��H[��H�X��Y�]H�[Y�]�[X\�H�YH[�Hܚ\��]H�X��X\��X�ۋ��H
+��[�]�Y[Ί���X[��]H�\��X�\���[�Y�H\�]]�[�ܙ\��
+�L�N�
+K�[��][ۚ[����[X\�H�YH�ܙ\��[��X�H���\��[���\ۈX�]�][ۋ��H
+���\�Ί��\�H�]H��X�\�[�۝Z[�\���X]\�[��\�ܙ\��\�Y�ܛ�\�[]Y\�������܈\���\�Y]�X�˂�H
+����[X[�[]N���H�[��[��][��[�[�[Z^�Y�܈�^X��\�Y�\���]�Y�][ۋ][^�[��Y�X�۝�\�\�ܘ\H[����Y����[��܈]ZX��X�[ۜ�

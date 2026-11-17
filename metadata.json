@@ -1,0 +1,8 @@
+{
+  "name": "FocusFlow",
+  "description": "Corporate Outlook email triage, productivity dashboard, and Kanban execution workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
